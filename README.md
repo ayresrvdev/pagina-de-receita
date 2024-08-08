@@ -12,7 +12,7 @@
 Esse projeto foi desenvolvido durante as aulas da formação Full-Stack na Rocketseat.
 
 <div align="center">
-    <img src=".github/thumbnail.png" width="250px" />
+    <img src=".github/thumbnail.png" />
 </div>
 
 ## 📘 Conceitos Aprendidos
